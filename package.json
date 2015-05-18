@@ -1,6 +1,6 @@
  {
   "author"      			: "slattery",
-  "name"        			: "wee git",
+  "name"        			: "wee-git",
   "description" 			: "wee repo for testing",
   "version"     			: "0.1.0",
 	"private"						: "true" , 
