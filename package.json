@@ -1,0 +1,16 @@
+ {
+  "author"      			: "slattery",
+  "name"        			: "wee git",
+  "description" 			: "wee repo for testing",
+  "version"     			: "0.1.0",
+	"private"						: "true" , 
+ "engines"     : {
+    "node"						: ">=0.10.0"
+  },
+  "dependencies" : {
+   },
+  "devDependencies" : {
+  },
+  "scripts" : {
+  }
+}
